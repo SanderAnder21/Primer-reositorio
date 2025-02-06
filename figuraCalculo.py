@@ -14,12 +14,11 @@ class Figura:
             area = (1 / 4) * numLado * (ladoLargo ** 2) / math.tan(math.pi / numLado)
         return area
 
-    @staticmethod
     def perimetroFig(ladoLargo, numLado):
         perim = ladoLargo * numLado
         return perim
 
-numLado = int(input("Ingrese la cantidad de lados en la figura: "))
+numLado = int(input("Ingrese la cantidad de lados en la figura:"))
 ladoLargo = float(input("Ingrese la medida del lado: "))
 print(f"Área de la figura: {Figura.areaFig(ladoLargo, numLado)}")
 print(f"Perímetro de la figura: {Figura.perimetroFig(ladoLargo, numLado)}")
