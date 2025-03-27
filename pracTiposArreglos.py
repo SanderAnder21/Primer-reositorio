@@ -1,6 +1,6 @@
 import numpy as np
 
-arreglo = np.array([1, 2, 3, 4, 5])
+arreglo = np.array([1, 2, 3, "4", 5])
 lista = [1, "hola", True, 3.2, 5]
 tuplaNp = tuple(arreglo)
 tuplaLista = tuple(lista)
@@ -11,3 +11,8 @@ diccionario = {"cadena": "Juan",
                "Booleano": True,
                "decimal": 3.2,
                "entero": 1}
+print(tuplaNp)
+print(tuplaLista)
+print(conjuntoNp)
+print(conjuntoLista)
+print(diccionario)
