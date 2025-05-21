@@ -1,3 +1,6 @@
+# Repositorio de Prácticas - Juan Manuel Macías de Lara
+
+Índice de prácticas disponibles en este repositorio:
 - [Práctica 1](https://github.com/SanderAnder21/Primer-reositorio/tree/main/Practica%201)
 - [Práctica 2-3](https://github.com/SanderAnder21/Primer-reositorio/tree/main/Practica%202-3)
 - [Práctica 4](https://github.com/SanderAnder21/Primer-reositorio/tree/main/Practica%204)
@@ -12,3 +15,4 @@
 - [Práctica 14](https://github.com/SanderAnder21/Primer-reositorio/tree/main/Practica%2014)
 - [Práctica 15](https://github.com/SanderAnder21/Primer-reositorio/tree/main/Practica%2015)
 - [Práctica 16](https://github.com/SanderAnder21/Primer-reositorio/tree/main/Practica%2016)
+**Nota:** Todos los archivos están disponibles en el [repositorio principal](https://github.com/SanderAnder21/Primer-reositorio)
